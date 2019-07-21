@@ -1,5 +1,5 @@
 {
-  "name": "template-monorepo",
+  "name": "template-monorepo-lerna",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
