@@ -1,0 +1,18 @@
+{
+  "name": "template-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "lerna run test",
+    "build:watch": "lerna run test --parallel -- --watch",
+    "test": "lerna run test",
+    "test:watch": "lerna run test --parallel -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.16.1"
+  }
+}
